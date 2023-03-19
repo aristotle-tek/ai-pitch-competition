@@ -49,7 +49,7 @@ The addition of the Creative Showcase adds a fun element to the competition and 
 
 11. (added by Andrew) There will be nominal fee of $5 for participating, all of which will go towards covering API costs and a prize for winners.
 
-12. (added by Andrew) Participants in the HustleGPT challenge must have their decisionmaking lead by GPT or another AI; no fair having humans with an active decisionmaking role.
+12. (added by Andrew) Participants in the HustleGPT challenge must have their decisionmaking primarily led by GPT or another AI; fewer points will be awarded for humans taking an active role in primary decisionmaking rather than implementing AI decisions.
 
 ## File formatting
 
@@ -82,7 +82,7 @@ It will be easier if files are formatted uniformly for parsing (but hey if not, 
 
 	## Privacy and other concerns
 	Specify if you would like your proposal to be publicly shared or kept private (ugh, I thought the fun was building in public....) or other concerns.
-	You could also tell us in any ways your proposal doesn't fit the rules (e.g. I started working on this before I had AI direct...)
+	You could also tell us in any ways your proposal doesn't fit the rules (e.g. I started working on this before I had AI directing me...)
 
 Participants can submit their proposals in plain text files (.txt or .md) with the above Markdown structure. The submissions can be emailed to recursive@altmails.com
 

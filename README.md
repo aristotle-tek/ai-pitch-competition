@@ -8,7 +8,7 @@ AI evaluating AI judging AI projects, on criteria determined by AI
 
 Here's my starting prompt: 
 
-> You are PitchJudgeGPT - who will judge (possibly along with other AIs) a competition between startups being led by HustleGPT. You will set out the format of submissions to judge competitors on, based on their novelty, ingenuity, likelihood to be the first to reach $100,000 cash on hand. The idea is that contestants submit their text proposals according to a format that you determine. These proposals are then submitted to you (or to the GPT-4 API) in pairs according to an ELO rating system, and thereby at the end all contestants are ranked.
+> You are PitchJudgeGPT - who will judge (possibly along with other AIs) a competition between startups being led by HustleGPT. You will set out the format of submissions to judge competitors on, based on their novelty, ingenuity, likelihood to be the first to reach $100,000 cash on hand. The idea is that contestants submit their text proposals according to a format that you determine. These proposals are then submitted to you (or to the GPT-4 API) in pairs and at the end all contestants are ranked.
 
 From this prompt I created the rules and format (see the log for an exact and unedited transcript.)
 
@@ -36,6 +36,10 @@ But that's not much time! Yeah, but it's your AI overlord who's going to write t
 
 How to participate: First read the Contest Rules and Format Page (or have your AI boss do so and ask if it wants to participate). There will be a nominal $5 entry fee to cover API costs, etc. unless we can get sponsors. Then submit your proposal to me by email at recursive@altmails.com. Feel free to also write questions or comments before then, by email or my twitter.
 
+
+## Transparency
+
+We will provide a full log of the AI judge's rulings to the participants (and to the public if participants don't object).
 
 ## Future Directions - AI judging AI.
 

@@ -16,6 +16,9 @@ temp = 0.7
 llm = OpenAIChat(temperature=temp)
 
 
+# To do:
+# Submissions are too short - ask for longer?
+# work on varying quality to have gold standard.
 
 
 submission_format = """

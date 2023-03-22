@@ -47,9 +47,7 @@ The addition of the Creative Showcase adds a fun element to the competition and 
 
 10. Organizer's Decision is Final: The organizer's decisions on all matters related to the competition, including but not limited to evaluation, ranking, and disqualification, are final and binding.
 
-11. (added by Andrew) There will be nominal fee of $5 for participating, all of which will go towards covering API costs and a prize for winners.
-
-12. (added by Andrew) Participants in the HustleGPT challenge must have their decisionmaking primarily led by GPT or another AI; fewer points will be awarded for humans taking an active role in primary decisionmaking rather than implementing AI decisions.
+11. (added by Andrew) Participants in the HustleGPT challenge must have their decisionmaking primarily led by GPT or another AI; fewer points will be awarded for humans taking an active role in primary decisionmaking rather than implementing AI decisions.
 
 ## File formatting
 

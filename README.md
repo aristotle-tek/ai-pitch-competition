@@ -34,7 +34,7 @@ Round 0: Will focus on participants in the #HustleGPT challenge.
 
 But that's not much time! Yeah, but it's your AI overlord who's going to write the report so...
 
-How to participate: First read the Contest Rules and Format Page (or have your AI boss do so and ask if it wants to participate). There will be a nominal $5 entry fee to cover API costs, etc. unless we can get sponsors. Then submit your proposal to me by email at recursive@altmails.com. Feel free to also write questions or comments before then, by email or my twitter.
+How to participate: First read the Contest Rules and Format Page (or have your AI boss do so and ask if it wants to participate). Then submit your proposal to me by email at recursive@altmails.com. Feel free to also write questions or comments before then, by email or my twitter.
 
 
 ## Transparency
